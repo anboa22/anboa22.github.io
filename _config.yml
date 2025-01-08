@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "bio-photo-3.jpg.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : "she/her"  
   bio              : "Urban Studies Master's candidate at Malmö University specializing in the intersection of art and city development."
