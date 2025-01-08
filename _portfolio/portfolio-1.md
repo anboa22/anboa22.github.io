@@ -1,7 +1,7 @@
 ---
 title: "Art and Cities Project
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Implementation of Art into cities-planing3. <br/><img src='/images/Arts and Cities.jpg'>"
 collection: project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I implimented the [zoning policies Optimization Papwr](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1439742) by Otubu, T. into cities-planing3 implemintation of Art and Citise. Additionally, I reproduced the origin results by interview analysis using audio file and semi-structure interview process. The report for this project can be found [here](https://www.academia.edu/126656957/Report_Arts_and_Cities/cities-planing3). 
