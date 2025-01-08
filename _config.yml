@@ -24,8 +24,8 @@ author:
   avatar           : "bio-photo-3.jpg.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : "she/her"  
-  bio              : "Urban Studies Master's candidate at Malmö University specializing in the intersection of art and city development."
-  location         : "Malmo, Skana, Sweden"
+  bio              : "Urban Studies Master's candidate at Malmö University"
+  location         : "Malmö, Skåna, Sweden"
   employer         : "Mlmö University"
   uri              : # URL
   email            : "aniko.bochorishvili@gmail.com" 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # anna_bocho
   lastfm           : # Username
-  linkedin         : #Anna Bochorishvili
+  linkedin         : # Anna Bochorishvili
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
