@@ -41,30 +41,30 @@ author:
   scopus           :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : 
   codepen          : # Username
   dribbble         : # Username
   github           : "anboa22"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # anna_bocho
+  instagram        : "https://www.instagram.com/anna_bocho/"
   lastfm           : # Username
-  linkedin         : # Anna Bochorishvili
+  linkedin         : "https://www.linkedin.com/in/anna-bochorishvili-5b1b56270/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # Anna Bochorishvili
+  telegram         : "https://t.me/studentinSwed"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
