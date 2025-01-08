@@ -15,4 +15,4 @@ redirect_from:
 
 🔍 I'm currently working towards my Master's thesis in the field of Urban Studies: Urban Business and Developemnt.
 
-✨ I am also interested in assiting and share experience with others in the Urban Studies: Urban Business and Developemnt and otjer social aspects. 
+✨ I am also interested in assiting and share experience with others in the Urban Studies: Urban Business and Developemnt and other social aspects. 
