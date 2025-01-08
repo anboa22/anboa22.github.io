@@ -11,8 +11,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  -
     
   - title: "Portfolio"
     url: /portfolio/
@@ -21,7 +20,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/Ana Bochorishvili CV
     
-  - title: "Guide"
-    url: /markdown/
+  - 
