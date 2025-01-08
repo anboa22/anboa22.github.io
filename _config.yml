@@ -28,7 +28,7 @@ author:
   location         : "Malmö, Skåna, Sweden"
   employer         : "Mlmö University"
   uri              : # URL
-  email            : "aniko.bochorishvili@gmail.com" 
+  email            : "aniko.bochorishvili@gmail.com"
 
   # Academic websites
   arxiv            : 
@@ -50,29 +50,29 @@ author:
 
   # Social media
   bluesky          : 
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
+  facebook         : 
+  flickr           : 
+  foursquare       : 
+  goodreads        : 
+  google_plus      : 
+  keybase          : 
   instagram        : "anna_bocho"
-  lastfm           : # Username
-  linkedin         : "Anna Bochorishvili"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : "About Everything"
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  lastfm           : 
+  linkedin         : "anna-bochorishvili-5b1b56270"
+  mastodon         : 
+  medium           : 
+  pinterest        : 
+  soundcloud       : 
+  steam            : 
+  telegram         : "@studentinSwed"
+  tumblr           : 
+  twitter          : 
+  vine             : 
+  weibo            :
+  wikipedia        : 
+  xing             : 
+  youtube          : 
+  zhihu            : 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
