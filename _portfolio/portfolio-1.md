@@ -1,5 +1,5 @@
 ---
-title: "Art and Cities Project
+title: "Art and Cities Project"
 excerpt: "Implementation of Art into cities-planing3. <br/><img src='/images/Arts and Cities.jpg'>"
 collection: project
 ---
