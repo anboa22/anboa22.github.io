@@ -11,6 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/simple urban studies related image.png}{: .align-right width="300px"}
+
 📚✨ I am a final year graduate student at Malmö University.
 
 🔍 I'm currently working towards my Master's thesis in the field of Urban Studies: Urban Business and Developemnt.
