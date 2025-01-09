@@ -6,7 +6,7 @@
 
 main:
   - title: "Portfolio"  
-    url: /portfolio/portfolio-1.md
+    url: /portfolio
     
   - title: "Talks"
     url: /talks 
