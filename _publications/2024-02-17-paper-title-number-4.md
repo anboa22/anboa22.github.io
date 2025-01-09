@@ -1,4 +1,3 @@
----
 title: "Report Arts and Cities"
 collection: publications
 category: manuscripts:report 
