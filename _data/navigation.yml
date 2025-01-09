@@ -9,7 +9,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Posts"  # Added missing key
+  - title: "Posts"  
     url: /posts
 
   - title: "Talks"
