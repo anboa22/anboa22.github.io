@@ -1,5 +1,5 @@
 ---
-title: 'Refleaction'
+title: 'Reflection'
 date: 2025-01-09
 permalink: /posts/2012/08/blog-post-4/
 tags:
@@ -8,7 +8,7 @@ tags:
   - Reflection
 ---
 
-I want to make some refleaction on my Intership research process during automn semester and I hope it would be insightful for those who are just like me making fisrt step in resreach process.
+I want to make some reflection on my Intership research process during automn semester and I hope it would be insightful for those who are just like me making fisrt step in resreach process.
 
 A little background: For me, the autumn semester was an experimental semester. Why? Because it was my first time conducting research, even though it was within an internship framework. My topic was "Art and Cities," focusing specifically on: Which strategies do artists and art organizations develop to sustain a place for themselves in the city of Malmö? I chose this internship topic because I worked in the art sector back in my country and was surprised to see how similar some issues can be despite the geographical distance.
 
