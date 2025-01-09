@@ -2,11 +2,11 @@
 title: "Report Arts and Cities"
 collection: publications
 category: Intership
-permalink: /publication/2024-ACADEMIA
+permalink: /publication/2024-LinkedIn
 excerpt: 'This report's research aims to explore the relationship between real estate companies and artists in the context of studio renting agreements in Malmö, Sweden. It seeks to understand the challenges that arise when working with property owners.' 
 date: 2024-07-01
 venue: 'Academia'
-paperurl: 'https://www.academia.edu/126656957/Report_Arts_and_Cities'
+paperurl: 'https://www.linkedin.com/pulse/art-cities-anna-bochorishvili-z6abf/?trackingId=Ce37tcyXeLUFbDsIrDnnwA%3D%3D'
 citation: "Jones, C. (2022). Agglomeration Theory. In: Urban Economy: Real Estate Economics and Public Policy."
 
 ---
