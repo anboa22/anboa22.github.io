@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Report Arts and Cities"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024r-ACADEMIA
+excerpt: 'TThis report's research aims to explore the relationship between real estate companies and artists in the context of studio renting agreements in Malmö, Sweden. It seeks to understand the challenges that arise when working with property owners. The chapter will be structured into three sections. These sections will use theoretical frameworks and previous research from various scholars to analyze the influence of the art sector in urban area and how it can attract other economic activities. For example, the presence of artists and cultural institutions often stimulates local economies by drawing tourists, encouraging the establishment of cafes and restaurants, and fostering community-driven events and festivals (Ann Markusen, 2006). Additionally, art projects and installations can lead to urban regeneration, attracting real estate development and investment in public spaces. The final chapter will provide an analysis of semi-structured interviews conducted with artists from different art fields, such as: visual arts, music, and performing arts, regarding their experiences and challenges with the real estate sector in Malmö. These interviews will provide valuable insights into specific issues such as rental agreements, studio availability, and interactions with property owners. By combining literature analysis and multiply interviews, this research report aims to build on previous studies of urban art ecosystems, such as the work of Carl Grodach and Ann Markusen, to offer a comprehensive understanding of the dynamics between the real estate and art sectors in Malmö, Sweden. This approach not only enhances the current body of knowledge but also provides practical recommendations for creating better collaboration and support artists in urban environments.'
+date: 2024-01-07
+venue: 'Report'
+paperurl: 'https://www.academia.edu/126656957/Report_Arts_and_Cities'
+citation: 'Jones C, (Latest addition). "Agglomeration Theory: Business and organizations often benefit from being located near 
+each other" Urban Economy.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
