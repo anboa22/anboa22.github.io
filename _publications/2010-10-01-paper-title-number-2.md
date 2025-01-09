@@ -3,7 +3,7 @@ title: "Report Arts and Cities"
 collection: publications 
 category: manuscripts:report 
 permalink:/publication/2024-ACADEMIA 
-excerpt:'This report's research aims to explore the relationship between real estate companies and artists in the context of studio renting agreements in Malmö, Sweden.'
+excerpt:'This report's research aims to explore the relationship between real estate companies and artists in the context of studio renting agreements in Malmö, Sweden.' 
 date: 2024-01-07 
 venue: 'Journal 1'
 paperurl: 'https://www.academia.edu/126656957/Report_Arts_and_Cities'
