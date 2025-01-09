@@ -6,8 +6,8 @@ excerpt: 'This report's research aims to explore the relationship between real e
 date: 2024-01-07
 venue: 'Journal'
 paperurl: 'https://www.academia.edu/126656957/Report_Arts_and_Cities'
-citation: 'Jones C, (Latest addition). "Agglomeration Theory: Business and organizations often benefit from being located near 
-each other" Urban Economy.'
+citation: "Jones, C. (2022). Agglomeration Theory. In: Urban Economy: Real Estate Economics and 
+Public Policy."
 ---
 This report's research aims to explore the relationship between real estate companies and 
 artists in the context of studio renting agreements in Malmö, Sweden. It seeks to understand the 
