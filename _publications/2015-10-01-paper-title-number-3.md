@@ -1,4 +1,3 @@
----
 title: "Report Arts and Cities"
 collection: publications
 permalink: /publication/22024-ACADEMIA
