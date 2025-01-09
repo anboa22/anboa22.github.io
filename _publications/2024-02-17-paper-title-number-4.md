@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Report Arts and Cities"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: Intership
+permalink: /publication/2024-ACADEMIA
+excerpt: 'This report's research aims to explore the relationship between real estate companies and artists in the context of studio renting agreements in Malmö, Sweden. It seeks to understand the challenges that arise when working with property owners. The chapter will be structured into three sections.'
+date: 2024-07-01
+venue: 'Acadmia'
+paperurl: 'https://www.academia.edu/126656957/Report_Arts_and_Cities'
+citation: "Jones, C. (2022). Agglomeration Theory. In: Urban Economy: Real Estate Economics and 
+Public Policy."
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This report's research aims to explore the relationship between real estate companies and artists in the context of studio renting agreements in Malmö, Sweden. It seeks to understand the challenges that arise when working with property owners. The chapter will be structured into three sections. These sections will use theoretical frameworks and previous research from various scholars to analyze the influence of the art sector in urban area and how it can attract other economic activities. For example, the presence of artists and cultural institutions often stimulates local economies by drawing tourists, encouraging the establishment of cafes and restaurants, and fostering community-driven events and festivals (Ann Markusen, 2006). Additionally, art projects and installations can lead to urban regeneration, attracting real estate development and investment in public spaces
