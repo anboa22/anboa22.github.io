@@ -1,5 +1,5 @@
 ---
-title: ""Report Arts and Cities"
+title: "Report Arts and Cities"
 collection: publications 
 category: manuscripts
 permalink: /publication/ 2024-ACADEMIA
